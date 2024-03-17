@@ -2,7 +2,7 @@
 
 Developed a football information application using Oracle as the relational database. Implemented functionalities like CRUD (Create, Read, Update, Delete) for teams, players, and other entities, along with queries using joins, aggregations, and nesting for complex data retrieval. Handled data manipulation with SQL, and built the backend and user interface (UI) using Java and PHP. This project demonstrates expertise in Oracle database management, SQL querying, and PHP web development.
 
-The application has the following capabilities:
+The application has the following capabilities: 
 
 * Insert - Add a team in our database.
 * Delete - Delete a team from our database
